@@ -29,7 +29,7 @@ export default function Home() {
           Oladapo Digital Realm!
         </h1>
         <h2 className="flex sm:text-xl text-lg py-4 text-amber-300">
-          I'm a frontend sorcerer
+          {`I'm a frontend sorcerer`}
         </h2>
 
         {/* Animated Text */}
