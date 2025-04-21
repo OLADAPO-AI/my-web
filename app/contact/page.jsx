@@ -116,7 +116,7 @@ export default function Contacts() {
             <input type="checkbox" required className="mt-1" />
             <label className="text-sm text-gray-700">
               I agree to the{' '}
-              <a href="#" className="text-blue-600 underline">
+              <a href="#" className="text-orange-600 underline">
                 Privacy Policy
               </a>{' '}
               and Data Protection terms.
@@ -124,7 +124,7 @@ export default function Contacts() {
           </div>
           <button
             type="submit"
-            className="w-full hover:bg-blue-800  p-3 rounded-xl bg-blue-500 text-white transition duration-300 ease-in-out font-semibold disabled:opacity-50 disabled:cursor-not-allowed"
+            className="w-full hover:bg-orange-800  p-3 rounded-xl bg-orange-500 text-white transition duration-300 ease-in-out font-semibold disabled:opacity-50 disabled:cursor-not-allowed"
           >
             Send Message
           </button>
